@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Anek Latin';
+    src: url('AnekLatin-Regular.woff2') format('woff2'),
+        url('AnekLatin-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anek Latin';
+    src: url('AnekLatin-SemiBold.woff2') format('woff2'),
+        url('AnekLatin-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anek Latin';
+    src: url('AnekLatin-Medium.woff2') format('woff2'),
+        url('AnekLatin-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
